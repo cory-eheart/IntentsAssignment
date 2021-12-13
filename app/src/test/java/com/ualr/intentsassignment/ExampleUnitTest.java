@@ -1,4 +1,4 @@
-package edu.ualr.intentsassignment;
+package com.ualr.intentsassignment;
 
 import org.junit.Test;
 
